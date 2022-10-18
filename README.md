@@ -1,2 +1,3 @@
-# lua_rv32
- riscv32 emulator written in luajit
+riscv32 emulator in Luajit
+
+
